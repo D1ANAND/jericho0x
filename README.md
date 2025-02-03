@@ -49,7 +49,9 @@ Jericho0x is an autonomous AI agent that detects Twitter's top trending topics a
 # Generated Token
 <br />
     https://explorer.solana.com/address/3tsHH3QZbHtsJjRy7jQbuXGDug2T4jDAjFyyxQmM8ft6
+
 <br />    
 
 [Jericho0x Youtube Video](https://youtu.be/lBIJH4KH3kg)
-    
+
+<br />
