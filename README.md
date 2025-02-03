@@ -1,4 +1,4 @@
-# jericho0x
+# Jericho0x
 
 Jericho0x is an autonomous AI agent that detects Twitter's top trending topics and launches unique blockchain tokens based on them. Each token is a one-time event, ensuring no trend is ever repeated.
 
@@ -16,19 +16,20 @@ Jericho0x is an autonomous AI agent that detects Twitter's top trending topics a
 <br />
 
 ### Prerequisites for env file
+
 <br />
 - Twitter credentials
 - OpenAI API credentials
 - Solana keys credentials
-
+<br />
 
 ### Setup
 <br />
 1. Clone the repository:
-   ```sh
+    ```sh
     git clone https://github.com/D1ANAND/jericho0x.git
     cd jericho0x
-   ```
+    ```
 
 2. Install PNPM packages
    ```sh
