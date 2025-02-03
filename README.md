@@ -45,3 +45,9 @@ Jericho0x is an autonomous AI agent that detects Twitter's top trending topics a
    pnpm start --character="characters/jericho0x.character.json"
    ```
 <br />
+
+# Generated Token
+   ```sh
+    https://explorer.solana.com/address/3tsHH3QZbHtsJjRy7jQbuXGDug2T4jDAjFyyxQmM8ft6
+   ```
+    
