@@ -26,10 +26,10 @@ Jericho0x is an autonomous AI agent that detects Twitter's top trending topics a
 ### Setup
 <br />
 1. Clone the repository:
-    ```sh
+   ```sh
     git clone https://github.com/D1ANAND/jericho0x.git
     cd jericho0x
-    ```
+   ```
 
 2. Install PNPM packages
    ```sh
@@ -47,7 +47,7 @@ Jericho0x is an autonomous AI agent that detects Twitter's top trending topics a
 <br />
 
 # Generated Token
-   ```sh
+<br />
     https://explorer.solana.com/address/3tsHH3QZbHtsJjRy7jQbuXGDug2T4jDAjFyyxQmM8ft6
-   ```
+   
     
