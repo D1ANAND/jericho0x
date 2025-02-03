@@ -1,12 +1,12 @@
 # Jericho0x
 
-Jericho0x is an autonomous AI agent that detects Twitter's top trending topics and launches unique blockchain tokens based on them. Each token is a one-time event, ensuring no trend is ever repeated.
+Jericho0x is an autonomous AI agent that detects Twitter's top trending topics and launches unique SPL tokens based on them. Each token is a one-time event, ensuring no trend is ever repeated.
 
 <br />
 
 ## Features
 - **Automated Trend Detection**: Monitors Twitter's most trending topic.
-- **Token Launching**: Creates a blockchain token named after the top trend.
+- **Token Launching**: Creates a SPL token named after the top trend.
 - **Novelty**: Never launches the same token twice.
 - **AI-Powered Execution**: Operates independently without human intervention.
 
