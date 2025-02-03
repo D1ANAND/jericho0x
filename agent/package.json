@@ -4,8 +4,8 @@
     "main": "src/index.ts",
     "type": "module",
     "scripts": {
-        "start": "node --loader ts-node/esm src/index.ts --isRoot --character=characters/dobby.character.json",
-        "dev": "node --loader ts-node/esm src/index.ts --isRoot --character=dobby.character.json",
+        "start": "node --loader ts-node/esm src/index.ts --isRoot",
+        "dev": "node --loader ts-node/esm src/index.ts --isRoot",
         "check-types": "tsc --noEmit",
         "test": "jest"
     },
